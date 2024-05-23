@@ -12,16 +12,16 @@
 
 ## Contexts 
 
+- Current CSS theme
+	- one theme list 
+	- localstorage 
+- List of CSS themes
+	- array of theme list
+	- localstorage 
 - Base Colour 
 	- hex colour of new theme 
-- Localstorage manager for list of CSS themes 
-	- Array of Theme Lists
-- Localstorage manager for current CSS theme
-	- One Theme List 
-- List of CSS themes 
-	- Array of Theme Lists 
-- Current CSS theme 
-	- One Theme List 
+
+
 
 
 ## Data 
@@ -46,3 +46,8 @@
 	]
 }
 ```
+
+
+# Note for Next Lesson
+
+- [x] Alex needs to find the autoimport package and share that 
